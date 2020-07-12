@@ -1,0 +1,67 @@
+body {
+  background-color: #F8F8F8;
+  padding-bottom: 40px;
+}
+.brand > img {
+  padding: 10px 0 0 5px
+}
+
+.cse-sidebar-nav > li > a {
+  color: rgb(29, 69, 59);
+  margin: 0 0 -1px;
+  padding: 5px 14px;
+  border: 1px solid #CCC;
+}
+.cse-sidebar-nav > li > a:hover {
+  color: #FFF;
+  background: rgba(29, 69, 59, 0.8);
+  text-shadow: 0 0px 0 rgba(255, 255, 255, .1);
+}
+.cse-sidebar-nav > li:first-child > a {
+  -webkit-border-radius: 6px 6px 0 0;
+     -moz-border-radius: 6px 6px 0 0;
+          border-radius: 6px 6px 0 0;
+}
+.cse-sidebar-nav > li:last-child > a {
+  -webkit-border-radius: 0 0 6px 6px;
+     -moz-border-radius: 0 0 6px 6px;
+          border-radius: 0 0 6px 6px;
+}
+.cse-sidebar-nav > .active > a {
+  color: #FFF;
+  background: #18453B;
+  background: rgba(29, 69, 59, 0.9);
+  text-shadow: 0 1px 0 rgba(0,0,0,.15);
+  -webkit-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+     -moz-box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+          box-shadow: inset 1px 0 0 rgba(0,0,0,.1), inset -1px 0 0 rgba(0,0,0,.1);
+}
+.cse-sidebar-nav > .active > a:hover {
+  color: #FFF;
+  background: #18453B;
+  background: rgba(29, 69, 59, 0.8);
+}
+
+.table-striped tbody tr:nth-child(even) {
+  background: #F0F0F0;
+}
+
+.nav-list li {
+  /*line-height: 25px;*/
+}
+
+hr {
+  border: 1px #AAA solid;
+}
+
+a.accordion-toggle {
+  color: rgba(29, 69, 59, 0.9);
+  font-weight: bold;
+  background: #E8E8E8;
+  text-decoration: none;
+}
+
+a.accordion-toggle:hover {
+  color: #FFF;
+  background: rgba(29, 69, 59, 0.9);
+}
