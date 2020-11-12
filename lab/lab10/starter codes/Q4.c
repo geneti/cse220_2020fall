@@ -6,8 +6,8 @@ void strlow(char a[], int n) {
 }
 
 void main(){
-    char a[] = "avER";
-    int n = 4;
+    char a[] = "AbcDe";
+    int n = 5;
     strlow(a, n);
     printf("%s\n", a);
 }
