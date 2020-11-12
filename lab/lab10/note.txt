@@ -1,0 +1,14 @@
+Hi everyone. Today we will practice the three coding questions from our midterm. 
+Before that, I would like to say something about our grading policy. If you have any questions about your grades, feel free to contact Dr. Cao and me before next Wednesday.
+
+For the first, each subquestion counts 0.5 points.
+
+For the second question, no square bracket should appear in your code. That counts 1 point. Correctly writing for and if each counts 1 point. If you have any other typo, it will cost you 0.5 point.
+
+For the third one, each subquestion counts 0.5 point.
+
+For the fourth one, correctly writing for and if, each counts 1 point. Turning uppercase to lower case counts 1 point. Any typo costs you 0.5 point.
+
+For the fifth question, declaring d as 0 and d = d+new result, that part counts 1 point. Using * for multiplication counts 1 point. For counts 1 point. Any typo costs you 0.5 point.
+
+For question 6 and 7, each counts 0.5 point.
