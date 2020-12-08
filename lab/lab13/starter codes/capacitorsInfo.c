@@ -27,7 +27,7 @@ int main (int argc, char *argv[]) {
     
     //Find the capacitor with the largest capacitance:
 	Capacitor * largestCap = largestCapacitance(capArray, 4);
-	printf("Largest capacitance cost: %.2f\n", largestCap->cost);
+	printf("Largest cost: %.2f\n", largestCap->cost);
 
     return 0;
 
